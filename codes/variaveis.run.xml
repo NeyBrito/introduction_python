@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="variaveis" type="CompoundRunConfigurationType">
+    <toRun name="main" type="PythonConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
